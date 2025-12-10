@@ -1,5 +1,5 @@
 # Real-Estate-Price-Prediction
-[PROJECT 1: Real Estate Price prediction (Random Forest, SVM and Logistic Regression)](https://github.com/PatienceMutede/Detecting-Money-Laundering-using-Machine-Learning/blob/main/Detecting_Money_Laundering_Transactions_using_Machine_Learning_Algorithms.ipynb)
+[PROJECT 1: Real Estate Price prediction (Random Forest, SVM and Logistic Regression)](Real_Estate_Price_Prediction_project.ipynb)
 
 
 **The aim of the project is to develop an automated machine learning model capable of predicting Dubai property prices.**
