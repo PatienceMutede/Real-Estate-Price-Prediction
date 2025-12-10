@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="Images/2020-01-29-12-50-26-257.jpg" width="120">
+</p>
+
+
 # Real-Estate-Price-Prediction
 [PROJECT 1: Real Estate Price prediction (Random Forest, Multiple Linear Regression)](Real_Estate_Price_Prediction_project.ipynb)
 
