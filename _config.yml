@@ -1,3 +1,5 @@
 title: Patience Mutede
 logo: images/photo.png 
 theme: jekyll-theme-minimal
+github:
+  is_project_page: false
