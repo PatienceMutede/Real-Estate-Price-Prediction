@@ -92,9 +92,9 @@ The Random Forest model significantly outperformed Linear Regression, achieving 
 
 ![](https://github.com/PatienceMutede/Real-Estate-Price-Prediction/raw/main/images/feature%20importance.png)
 
-From both the Random Forest model and Linear Regression feature importance was presented. The Results show that the most important feature is size in sq ft with a score of 0.555 and price per sqft with a score of 0.441. The other features scores were less than 0.0001 showing that they are not important in predicting the price.
+From both the Random Forest model and Linear Regression feature importance was presented. The Results show that the most important feature is size in sq ft with a score of 0.555. The other features scores were less than 0.0001 showing that they are not very important in predicting the price.
 
-This confirms that property size and price per sqft are the primary drivers of real estate value in Dubai, while factors such as number of bedrooms, neighbourhood category, and property age play a minimal role in this dataset.
+This confirms that property size is the primary driver of real estate value in Dubai, while factors such as number of bedrooms, neighbourhood category, and property age play a minimal role in this dataset.
 
 
 ## **Conclusion**
