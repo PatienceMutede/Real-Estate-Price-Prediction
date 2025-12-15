@@ -4,6 +4,9 @@
 
 
 # Real-Estate-Price-Prediction
+
+Click on link below to view project in Github
+
 [PROJECT 1: Real Estate Price prediction (Random Forest, Multiple Linear Regression)](https://github.com/PatienceMutede/Real-Estate-Price-Prediction/blob/75b9ba0563813b54b9bd7604b01b59eb2b8706cc/Real_Estate_Price_Prediction_project.ipynb)
 
 ## **The aim of the project is to develop an automated machine learning model capable of predicting Dubai property prices.**
