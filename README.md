@@ -26,8 +26,6 @@ The core problem this project seeks to solve is the difficulty of generating con
 
 ## **Objectives**
 
-•	Identify the key determinants of property prices in Dubai
-
 •	Develop an effective, automated property price prediction model.
 
 •	Validate the model’s accuracy and predictive performance.
@@ -87,22 +85,9 @@ Two machine learning algorithms were run on the training dataset and the perform
 
 The Random Forest model significantly outperformed Linear Regression, achieving a higher R² value and a much lower MSE. This shows that Random Forest captured the nonlinear relationships within the real estate data far more effectively.
 
-**Feature Importance Linear Regression**
-
-![](https://github.com/PatienceMutede/Real-Estate-Price-Prediction/raw/main/images/feature%20importance.png)
-
-**Feature Importance Random Forest**
-
-![](https://github.com/PatienceMutede/Real-Estate-Price-Prediction/raw/main/images/feature%20importance.png)
-
-From both the Random Forest model and Linear Regression feature importance was presented. The Results show that the most important feature is size in sq ft with a score of 0.555. The other features scores were less than 0.0001 showing that they are not very important in predicting the price.
-
-This confirms that property size is the primary driver of real estate value in Dubai, while factors such as number of bedrooms, neighbourhood category, and property age play a minimal role in this dataset.
-
-
 ## **Conclusion**
 
-The project successfully produced an accurate, automated machine learning model for predicting real estate prices in Dubai. After cleaning the data by removing extreme outliers and grouping underrepresented neighbourhoods, the Random Forest model proved to be the most reliable, achieving an excellent R² of 0.99. The results show that property size and price per square foot are the dominant factors determining property value, while other variables contribute minimally.
+The project successfully produced an accurate, automated machine learning model for predicting real estate prices in Dubai. After cleaning the data by removing extreme outliers and grouping underrepresented neighbourhoods, the Random Forest model proved to be the most reliable, achieving an excellent R² of 0.99. 
 
 The model provides a strong foundation for real-estate professionals, investors, and analysts, enabling:
 
